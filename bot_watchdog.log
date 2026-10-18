@@ -1,0 +1,2777 @@
+[Tue 10/06/2026 14:36:13.92] starting bot... 
+2026-10-06 14:36:18,579 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-06 14:36:18,583 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-06 14:36:18,583 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-06 14:36:18] [INFO    ] discord.client: logging in using static token
+2026-10-06 14:36:18,603 - discord.client - INFO - logging in using static token
+2026-10-06 14:36:20,464 - rain_bot - INFO - Bot session created, commands registered: ['status', 'help', 'test_rain', 'radar'] / ['radar']
+[2026-10-06 14:36:21] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0e3e66861b7484ab88c6b35a56716f56).
+2026-10-06 14:36:21,383 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0e3e66861b7484ab88c6b35a56716f56).
+2026-10-06 14:36:23,449 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-06 14:36:23,450 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-06 14:36:23,967 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-06 14:36:23,967 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-06 14:36:23,967 - rain_bot - INFO - Running rain check...
+2026-10-06 14:36:25,713 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.101)
+2026-10-06 14:41:23,983 - rain_bot - INFO - Running rain check...
+2026-10-06 14:41:25,513 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.101)
+2026-10-06 14:46:23,979 - rain_bot - INFO - Running rain check...
+2026-10-06 14:46:25,495 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.086)
+[Tue 10/06/2026 14:48:18.84] bot exited (code 1), restarting in 10s... 
+[Tue 10/06/2026 14:48:28.99] starting bot... 
+2026-10-06 14:48:29,837 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-06 14:48:29,838 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-06 14:48:29,838 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-06 14:48:29] [INFO    ] discord.client: logging in using static token
+2026-10-06 14:48:29,839 - discord.client - INFO - logging in using static token
+2026-10-06 14:48:30,620 - rain_bot - INFO - Bot session created, commands registered: ['status', 'help', 'radar', 'test_rain'] / ['radar']
+[2026-10-06 14:48:31] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9c4d665d538d017b39e1b1301ce894b4).
+2026-10-06 14:48:31,430 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9c4d665d538d017b39e1b1301ce894b4).
+2026-10-06 14:48:33,467 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-06 14:48:33,467 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-06 14:48:34,095 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-06 14:48:34,096 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-06 14:48:34,096 - rain_bot - INFO - Running rain check...
+2026-10-06 14:48:35,323 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.086)
+2026-10-06 14:53:34,115 - rain_bot - INFO - Running rain check...
+2026-10-06 14:53:35,474 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.086)
+2026-10-06 14:58:34,104 - rain_bot - INFO - Running rain check...
+2026-10-06 14:58:35,809 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.086)
+[Tue 10/06/2026 14:59:49.06] bot exited (code 1), restarting in 10s... 
+[Tue 10/06/2026 14:59:59.20] starting bot... 
+2026-10-06 15:00:00,893 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-06 15:00:00,894 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-06 15:00:00,894 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-06 15:00:00] [INFO    ] discord.client: logging in using static token
+2026-10-06 15:00:00,896 - discord.client - INFO - logging in using static token
+2026-10-06 15:00:02,057 - rain_bot - INFO - Commands registered: prefix=['help', 'test_rain', 'status', 'radar'] slash=['radar']
+[2026-10-06 15:00:03] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 99f42ea7fd299b65e42c2103b04f9921).
+2026-10-06 15:00:03,497 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 99f42ea7fd299b65e42c2103b04f9921).
+2026-10-06 15:00:05,546 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-06 15:00:05,546 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-06 15:00:06,208 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-06 15:00:06,208 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-06 15:00:06,208 - rain_bot - INFO - Running rain check...
+2026-10-06 15:00:08,562 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.080)
+2026-10-06 15:05:06,220 - rain_bot - INFO - Running rain check...
+2026-10-06 15:05:07,370 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.080)
+2026-10-06 15:10:06,211 - rain_bot - INFO - Running rain check...
+2026-10-06 15:10:07,421 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.080)
+[Tue 10/06/2026 15:12:02.56] bot exited (code 1), restarting in 10s... 
+[Tue 10/06/2026 15:12:12.73] starting bot... 
+2026-10-06 15:12:13,478 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-06 15:12:13,479 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-06 15:12:13,479 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-06 15:12:13] [INFO    ] discord.client: logging in using static token
+2026-10-06 15:12:13,479 - discord.client - INFO - logging in using static token
+2026-10-06 15:12:14,332 - rain_bot - INFO - Commands registered: prefix=['forecast', 'status', 'help', 'test_rain', 'radar'] slash=['radar', 'forecast']
+[2026-10-06 15:12:15] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4820e5d7c47424bff5ebfb4c6e660cfc).
+2026-10-06 15:12:15,212 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4820e5d7c47424bff5ebfb4c6e660cfc).
+2026-10-06 15:12:17,227 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-06 15:12:17,227 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-06 15:12:17,855 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-06 15:12:17,855 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-06 15:12:17,855 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-06 15:12:17,856 - rain_bot - INFO - Running rain check...
+2026-10-06 15:12:17,856 - rain_bot - INFO - Running forecast check...
+2026-10-06 15:12:17,856 - rain_bot - WARNING - Forecast disabled: ยังไม่ได้ตั้งค่า TMD_API_KEY — สมัครที่ https://data.tmd.go.th/nwpapi/register แล้วกด "Create New Token" แล้วใส่ค่าใน .env
+2026-10-06 15:12:19,487 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.080)
+[Tue 10/06/2026 15:15:02.12] bot exited (code 1), restarting in 10s... 
+[Tue 10/06/2026 15:15:12.50] starting bot... 
+2026-10-06 15:15:19,722 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-06 15:15:19,724 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-06 15:15:19,724 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-06 15:15:19] [INFO    ] discord.client: logging in using static token
+2026-10-06 15:15:19,752 - discord.client - INFO - logging in using static token
+2026-10-06 15:15:20,846 - rain_bot - INFO - Commands registered: prefix=['help', 'test_rain', 'status', 'forecast', 'radar'] slash=['radar', 'forecast']
+[2026-10-06 15:15:21] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1562af66d6a0fe35063a2b2de7c547f3).
+2026-10-06 15:15:21,828 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1562af66d6a0fe35063a2b2de7c547f3).
+2026-10-06 15:15:23,856 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-06 15:15:23,856 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-06 15:15:24,500 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-06 15:15:24,501 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-06 15:15:24,501 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-06 15:15:24,501 - rain_bot - INFO - Running rain check...
+2026-10-06 15:15:24,502 - rain_bot - INFO - Running forecast check...
+2026-10-06 15:15:25,857 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.078)
+2026-10-06 15:15:26,295 - rain_bot - INFO - Forecast sent (6 hours)
+2026-10-06 15:20:24,532 - rain_bot - INFO - Running rain check...
+2026-10-06 15:20:26,227 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.078)
+[Wed 10/07/2026 23:35:04.00] starting bot... 
+2026-10-07 23:35:06,077 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-07 23:35:06,079 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-07 23:35:06,080 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-07 23:35:06] [INFO    ] discord.client: logging in using static token
+2026-10-07 23:35:06,083 - discord.client - INFO - logging in using static token
+2026-10-07 23:35:07,132 - rain_bot - INFO - Commands registered: prefix=['help', 'forecast', 'test_rain', 'radar', 'status'] slash=['radar', 'forecast']
+[2026-10-07 23:35:08] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 8e471037d306bc77936b4f856f59c382).
+2026-10-07 23:35:08,017 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8e471037d306bc77936b4f856f59c382).
+2026-10-07 23:35:10,036 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-07 23:35:10,036 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-07 23:35:10,453 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-07 23:35:10,454 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-07 23:35:10,454 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-07 23:35:10,454 - rain_bot - INFO - Running rain check...
+2026-10-07 23:35:10,454 - rain_bot - INFO - Running forecast check...
+2026-10-07 23:35:11,884 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+2026-10-07 23:35:12,579 - rain_bot - INFO - Forecast sent (6 hours)
+2026-10-07 23:40:10,503 - rain_bot - INFO - Running rain check...
+2026-10-07 23:40:12,142 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+2026-10-07 23:45:10,454 - rain_bot - INFO - Running rain check...
+2026-10-07 23:45:12,156 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+2026-10-07 23:50:10,461 - rain_bot - INFO - Running rain check...
+2026-10-07 23:50:12,204 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+2026-10-07 23:55:10,461 - rain_bot - INFO - Running rain check...
+2026-10-07 23:55:11,894 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+[Sun 10/11/2026  1:53:52.58] starting bot... 
+2026-10-11 01:54:24,091 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-11 01:54:24,092 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-11 01:54:24,093 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-11 01:54:24] [INFO    ] discord.client: logging in using static token
+2026-10-11 01:54:24,096 - discord.client - INFO - logging in using static token
+2026-10-11 01:54:25,053 - rain_bot - INFO - Commands registered: prefix=['status', 'help', 'test_rain', 'forecast', 'radar'] slash=['radar', 'forecast']
+[2026-10-11 01:54:26] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 943e3f47be65528b7808214af7cb6d07).
+2026-10-11 01:54:26,175 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 943e3f47be65528b7808214af7cb6d07).
+2026-10-11 01:54:28,194 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-11 01:54:28,283 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-11 01:54:28,781 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-11 01:54:28,781 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-11 01:54:28,782 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-11 01:54:28,782 - rain_bot - INFO - Running rain check...
+2026-10-11 01:54:28,783 - rain_bot - INFO - Running forecast check...
+2026-10-11 01:54:30,274 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.038)
+2026-10-11 01:54:31,690 - rain_bot - INFO - Forecast sent (6 hours)
+^C[Sun 10/11/2026 11:54:33.18] starting bot... 
+2026-10-11 11:54:35,526 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-11 11:54:35,527 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-11 11:54:35,527 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-11 11:54:35] [INFO    ] discord.client: logging in using static token
+2026-10-11 11:54:35,531 - discord.client - INFO - logging in using static token
+2026-10-11 11:54:37,319 - rain_bot - INFO - Commands registered: prefix=['test_rain', 'help', 'radar', 'status', 'forecast'] slash=['radar', 'forecast']
+[2026-10-11 11:54:39] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 70d476c35ade1a6bb46f27e5fa321b27).
+2026-10-11 11:54:39,181 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 70d476c35ade1a6bb46f27e5fa321b27).
+2026-10-11 11:54:41,252 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-11 11:54:41,252 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-11 11:54:41,690 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-11 11:54:41,691 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-11 11:54:41,691 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-11 11:54:41,691 - rain_bot - INFO - Running rain check...
+2026-10-11 11:54:41,691 - rain_bot - INFO - Running forecast check...
+2026-10-11 11:54:42,767 - rain_bot - INFO - Forecast sent (6 hours)
+2026-10-11 11:54:44,458 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.046)
+[Sun 10/11/2026 14:56:01.44] starting bot... 
+2026-10-11 14:56:05,018 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-11 14:56:05,020 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-11 14:56:05,020 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-11 14:56:05] [INFO    ] discord.client: logging in using static token
+2026-10-11 14:56:05,026 - discord.client - INFO - logging in using static token
+2026-10-11 14:56:05,960 - rain_bot - INFO - Commands registered: prefix=['radar', 'status', 'test_rain', 'forecast', 'help'] slash=['radar', 'forecast']
+[2026-10-11 14:56:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f0ce0c92b6187450f99e2f7589945c99).
+2026-10-11 14:56:06,837 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f0ce0c92b6187450f99e2f7589945c99).
+2026-10-11 14:56:08,876 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-11 14:56:08,876 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-11 14:56:09,290 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-11 14:56:09,290 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-11 14:56:09,291 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-11 14:56:09,291 - rain_bot - INFO - Running rain check...
+2026-10-11 14:56:09,291 - rain_bot - INFO - Running forecast check...
+2026-10-11 14:56:11,202 - rain_bot - INFO - Rain alert sent: หนักมาก (ratio: 0.057)
+2026-10-11 14:56:11,678 - rain_bot - INFO - Forecast sent (6 hours)
+[Tue 10/13/2026 10:46:14.99] starting bot... 
+2026-10-13 10:46:21,718 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 10:46:21,720 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 10:46:21,720 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 10:46:21] [INFO    ] discord.client: logging in using static token
+2026-10-13 10:46:21,725 - discord.client - INFO - logging in using static token
+2026-10-13 10:46:23,360 - rain_bot - INFO - Commands registered: prefix=['test_rain', 'help', 'radar', 'status', 'forecast'] slash=['radar', 'forecast']
+[2026-10-13 10:46:25] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e088b82a90d0ed2bec632c2707665d00).
+2026-10-13 10:46:25,321 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e088b82a90d0ed2bec632c2707665d00).
+2026-10-13 10:46:27,353 - rain_bot - INFO - Logged in as บอทสำหรับคนแปลกอย่างนาย#8428 (ID: 1058564686720798771)
+2026-10-13 10:46:27,353 - rain_bot - INFO - Discord Client ID: 1058564686720798771
+2026-10-13 10:46:28,394 - rain_bot - INFO - Slash commands synced (/radar)
+2026-10-13 10:46:28,394 - rain_bot - INFO - Bot is ready, rain check loop started (interval: 300s = 5 min)
+2026-10-13 10:46:28,394 - rain_bot - INFO - Forecast loop started (every 60 min = 1 hour)
+2026-10-13 10:46:28,394 - rain_bot - INFO - Running rain check...
+2026-10-13 10:46:28,395 - rain_bot - INFO - Running forecast check...
+2026-10-13 10:46:30,547 - rain_bot - INFO - Rain alert sent: ปานกลาง (ratio: 0.034)
+2026-10-13 10:46:31,061 - rain_bot - INFO - Forecast sent (6 hours)
+[Tue 10/13/2026 14:06:54.02] starting bot... 
+2026-10-13 14:06:58,059 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:06:58,060 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:06:58,060 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:06:58] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:06:58,062 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:06:58.64] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:07:08.79] starting bot... 
+2026-10-13 14:07:09,416 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:07:09,416 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:07:09,417 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:07:09] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:07:09,418 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:07:09.85] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:07:19.99] starting bot... 
+2026-10-13 14:07:20,669 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:07:20,669 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:07:20,669 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:07:20] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:07:20,670 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:07:21.10] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:07:31.27] starting bot... 
+2026-10-13 14:07:31,957 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:07:31,957 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:07:31,957 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:07:31] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:07:31,958 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:07:32.43] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:07:42.60] starting bot... 
+2026-10-13 14:07:43,314 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:07:43,315 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:07:43,315 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:07:43] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:07:43,317 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:07:43.78] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:07:53.93] starting bot... 
+2026-10-13 14:07:54,518 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:07:54,519 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:07:54,519 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:07:54] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:07:54,520 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:07:55.00] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:08:05.16] starting bot... 
+2026-10-13 14:08:05,836 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:08:05,838 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:08:05,838 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:08:05] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:08:05,839 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:08:06.32] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:08:16.46] starting bot... 
+2026-10-13 14:08:17,115 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:08:17,116 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:08:17,116 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:08:17] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:08:17,117 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:08:17.57] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:08:27.74] starting bot... 
+2026-10-13 14:08:28,351 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:08:28,351 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:08:28,351 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:08:28] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:08:28,352 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:08:28.81] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:08:38.96] starting bot... 
+2026-10-13 14:08:39,612 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:08:39,613 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:08:39,613 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:08:39] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:08:39,614 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:08:40.05] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:08:50.21] starting bot... 
+2026-10-13 14:08:50,775 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:08:50,775 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:08:50,775 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:08:50] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:08:50,776 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:08:51.22] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:01.36] starting bot... 
+2026-10-13 14:09:01,935 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:01,937 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:01,937 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:01] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:01,938 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:02.39] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:12.53] starting bot... 
+2026-10-13 14:09:13,182 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:13,183 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:13,183 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:13] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:13,184 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:13.66] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:23.78] starting bot... 
+2026-10-13 14:09:24,383 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:24,383 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:24,383 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:24] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:24,385 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:24.84] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:34.97] starting bot... 
+2026-10-13 14:09:35,555 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:35,555 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:35,555 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:35] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:35,556 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:35.98] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:46.13] starting bot... 
+2026-10-13 14:09:46,712 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:46,713 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:46,713 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:46] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:46,714 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:47.12] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:09:57.30] starting bot... 
+2026-10-13 14:09:57,876 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:09:57,876 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:09:57,876 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:09:57] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:09:57,877 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:09:58.34] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:10:08.47] starting bot... 
+2026-10-13 14:10:09,060 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:10:09,061 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:10:09,061 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:10:09] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:10:09,062 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:10:09.49] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:10:19.63] starting bot... 
+2026-10-13 14:10:20,226 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:10:20,226 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:10:20,226 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:10:20] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:10:20,228 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:10:20.68] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:10:30.80] starting bot... 
+2026-10-13 14:10:31,378 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:10:31,378 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:10:31,378 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:10:31] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:10:31,379 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:10:31.86] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:10:41.96] starting bot... 
+2026-10-13 14:10:42,553 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:10:42,554 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:10:42,554 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:10:42] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:10:42,555 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:10:43.00] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:10:53.14] starting bot... 
+2026-10-13 14:10:53,723 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:10:53,724 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:10:53,724 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:10:53] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:10:53,725 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:10:54.18] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:11:04.31] starting bot... 
+2026-10-13 14:11:04,891 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:11:04,892 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:11:04,892 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:11:04] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:11:04,892 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:11:05.53] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:11:15.70] starting bot... 
+2026-10-13 14:11:16,283 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:11:16,283 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:11:16,283 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:11:16] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:11:16,285 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:11:16.71] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:11:26.87] starting bot... 
+2026-10-13 14:11:27,453 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:11:27,453 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:11:27,453 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:11:27] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:11:27,455 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:11:27.90] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:11:38.05] starting bot... 
+2026-10-13 14:11:38,649 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:11:38,650 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:11:38,650 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:11:38] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:11:38,651 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:11:39.17] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:11:49.35] starting bot... 
+2026-10-13 14:11:49,977 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:11:49,978 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:11:49,978 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:11:49] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:11:49,979 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:11:50.39] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:00.52] starting bot... 
+2026-10-13 14:12:01,104 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:01,105 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:01,105 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:01] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:01,107 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:01.57] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:11.70] starting bot... 
+2026-10-13 14:12:12,871 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:12,871 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:12,871 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:12] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:12,872 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:13.41] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:23.57] starting bot... 
+2026-10-13 14:12:24,147 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:24,147 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:24,147 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:24] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:24,148 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:24.69] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:34.80] starting bot... 
+2026-10-13 14:12:35,488 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:35,488 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:35,488 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:35] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:35,489 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:35.97] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:46.13] starting bot... 
+2026-10-13 14:12:47,001 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:47,001 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:47,002 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:47] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:47,003 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:47.49] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:12:57.65] starting bot... 
+2026-10-13 14:12:58,252 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:12:58,253 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:12:58,253 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:12:58] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:12:58,254 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:12:58.67] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:13:08.82] starting bot... 
+2026-10-13 14:13:09,339 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:13:09,339 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:13:09,339 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:13:09] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:13:09,340 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:13:10.49] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:13:20.62] starting bot... 
+2026-10-13 14:13:21,139 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:13:21,140 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:13:21,140 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:13:21] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:13:21,141 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:13:21.72] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:13:31.81] starting bot... 
+2026-10-13 14:13:32,351 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:13:32,351 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:13:32,351 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:13:32] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:13:32,352 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:13:32.77] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:13:42.89] starting bot... 
+2026-10-13 14:13:43,415 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:13:43,416 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:13:43,416 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:13:43] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:13:43,417 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:13:43.82] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:13:53.95] starting bot... 
+2026-10-13 14:13:54,462 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:13:54,462 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:13:54,463 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:13:54] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:13:54,463 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:13:54.87] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:14:04.99] starting bot... 
+2026-10-13 14:14:05,530 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:14:05,531 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:14:05,531 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:14:05] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:14:05,532 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:14:05.98] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:14:16.10] starting bot... 
+2026-10-13 14:14:16,640 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:14:16,641 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:14:16,641 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:14:16] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:14:16,642 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:14:17.09] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:14:27.23] starting bot... 
+2026-10-13 14:14:27,786 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:14:27,787 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:14:27,787 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:14:27] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:14:27,788 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:14:28.25] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:14:38.40] starting bot... 
+2026-10-13 14:14:39,491 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:14:39,492 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:14:39,492 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:14:39] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:14:39,493 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:14:39.98] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:14:50.15] starting bot... 
+2026-10-13 14:14:50,731 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:14:50,732 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:14:50,732 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:14:50] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:14:50,733 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:14:51.15] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:01.29] starting bot... 
+2026-10-13 14:15:01,986 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:01,987 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:01,987 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:01] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:01,988 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:02.48] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:12.63] starting bot... 
+2026-10-13 14:15:13,247 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:13,248 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:13,248 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:13] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:13,248 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:13.68] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:23.84] starting bot... 
+2026-10-13 14:15:24,409 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:24,409 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:24,409 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:24] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:24,410 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:24.84] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:35.02] starting bot... 
+2026-10-13 14:15:35,566 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:35,566 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:35,566 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:35] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:35,568 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:36.03] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:46.15] starting bot... 
+2026-10-13 14:15:46,717 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:46,717 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:46,717 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:46] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:46,718 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:47.13] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:15:57.29] starting bot... 
+2026-10-13 14:15:58,087 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:15:58,088 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:15:58,088 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:15:58] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:15:58,090 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:15:58.70] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:16:08.88] starting bot... 
+2026-10-13 14:16:09,518 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:16:09,518 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:16:09,518 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:16:09] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:16:09,519 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:16:09.97] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:16:20.13] starting bot... 
+2026-10-13 14:16:20,738 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:16:20,739 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:16:20,739 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:16:20] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:16:20,740 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:16:21.19] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:16:31.35] starting bot... 
+2026-10-13 14:16:31,945 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:16:31,946 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:16:31,946 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:16:31] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:16:31,947 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:16:32.36] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:16:42.53] starting bot... 
+2026-10-13 14:16:43,131 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:16:43,132 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:16:43,132 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:16:43] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:16:43,134 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:16:43.56] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:16:53.72] starting bot... 
+2026-10-13 14:16:54,319 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:16:54,319 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:16:54,319 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:16:54] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:16:54,320 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:16:54.78] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:17:04.96] starting bot... 
+2026-10-13 14:17:05,544 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:17:05,544 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:17:05,544 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:17:05] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:17:05,546 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:17:06.06] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:17:16.23] starting bot... 
+2026-10-13 14:17:16,821 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:17:16,821 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:17:16,821 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:17:16] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:17:16,822 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:17:17.27] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:17:27.45] starting bot... 
+2026-10-13 14:17:28,090 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:17:28,090 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:17:28,090 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:17:28] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:17:28,091 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:17:28.55] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:17:38.70] starting bot... 
+2026-10-13 14:17:39,508 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:17:39,508 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:17:39,508 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:17:39] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:17:39,510 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:17:39.98] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:17:50.16] starting bot... 
+2026-10-13 14:17:50,842 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:17:50,842 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:17:50,842 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:17:50] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:17:50,843 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:17:51.25] bot exited (code 1), restarting in 10s... 
+[Tue 10/13/2026 14:18:01.40] starting bot... 
+2026-10-13 14:18:02,449 - rain_bot - INFO - Starting Rain Alert Bot...
+2026-10-13 14:18:02,450 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-10-13 14:18:02,450 - discord.client - WARNING - davey is not installed, voice will NOT be supported
+[2026-10-13 14:18:02] [INFO    ] discord.client: logging in using static token
+2026-10-13 14:18:02,451 - discord.client - INFO - logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 778, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 28, in <module>
+    main()
+  File "D:\Ai agnet\discord-rain-bot\bot.py", line 24, in main
+    RainAlertBot().run(config.DISCORD_TOKEN)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\patyawat\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\http.py", line 848, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+[Tue 10/13/2026 14:18:02.88] bot exited (code 1), restarting in 10s... 
